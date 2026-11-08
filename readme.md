@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [agent-qa](https://vostride.com) - Natural-language web, Android and iOS QA with persistent memidex memory, validated self-improvement, and step/screenshot evidence; early-stage, FSL-1.1-ALv2 competing-use restrictions, separate model/infrastructure costs.
 
 ## Docs & Knowledge
 
